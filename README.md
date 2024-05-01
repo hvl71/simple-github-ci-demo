@@ -1,2 +1,2 @@
 # simple-github-ci-demo
-Demo CI best-practices in GitHub ecosystem context
+Demo CI best-practices in a GitHub ecosystem context
